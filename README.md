@@ -1,3 +1,8 @@
+
+
+![GitHub Banner](https://github.com/user-attachments/assets/c623b5a0-d56c-483e-b3d9-487bf665dc6d)
+
+
 - 👋 Hi, I’m Ari-Dan Eidelstein
 
 - I enjoy technology and I'm eager to get startet with my Data Science career.
